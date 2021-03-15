@@ -145,9 +145,16 @@ perform well). They do have unmetered storage which is nice, but the CPUs they u
 [CynderHost](https://cynderhost.com/minecraft-hosting) : CynderHost offers hosting for $0.90 per GB of ram with unknown CPUs. I also have no idea where their
 servers are hosted. They do have reports of mass Discord bot messages in server host Discords so likely a very scummy company. Avoid!
 
-[Daemex](https://billing.daemex.io/cart.php?gid=1) : Currently in a Beta so free servers (if approved by staff). Unknown specs - not even ram is listed as it's
-adaptable. There are 4 USA locations, 3 Europe locations, 4 Asia locations, one Africa location, one South America location, and one Australia location. I'm just
-a bit confused more than anything.
+[Cyperhost](https://cyperhost.com/minecraft) : Cyperhost offers hosting for $1.75 per GB of ram with a Ryzen 7 3800X. They have 2 locations, one in Beauhamois - Canada
+and one in London - UK. Despite their prices being pretty decent I would not recommend them - why? They have unmetered CPU usage which can lead to servers lagging everyone
+else on the node if they are using a laggy setup - and they leaked a players IP in one of their marketing materials (its removed now, but extremely unprofessional). Avoid.
+
+[Daemex](https://billing.daemex.io/cart.php?gid=1) : Currently in a Beta so free servers (if approved by staff). You get 4GB of ram with an unknown CPU. There are 4 USA
+locations, 3 Europe locations, 4 Asia locations, one Africa location, one South America location, and one Australia location. I'm just a bit confused more than anything,
+will update this if I get my server from them
+
+[Daichi](https://daichi.host/minecraft) : Daichi is a newer host offering Minecraft hosting for $2 per GB of ram with unknown Xeon CPUs. I have no idea where their locations
+are. The unlimited SSD hosting is nice, but they are using a cracked copy of WHMCS so beware, use at your own risk.
 
 [DBM Hosting](https://dbmhosting.com/cart.php?a=confproduct&i=0) : DBM Hosting offers hosting for about $6 per GB of ram with an i7-7700K (according to their MCMarket
 page). No location information is available. Just don't use, overpriced for the specs without even knowing where it'll be hosted.
@@ -283,6 +290,9 @@ i9-9900k/Ryzen 3900X/3800X/3700X. For Budget they have multiple USA locations an
 Australia location. Lastly, for Premium they have multiple USA locations and 3 Europe locations. It looks like a decent host, but I have not had any friends/heard
 anything about it.
 
+[Helix Network](https://helixnetwork.xyz/plans) : Helix Network offers hosting for about $3.50 per GB of ram with a Ryzen 9 3900. They do not tell you their locations.
+Unlimited NVMe storage is nice though, but the fact that I can find nothing else out about this company is a deal breaker. Just very odd.
+
 [Host Havoc](https://hosthavoc.com/minecraft) : Host Havoc is a server host charging $5 per GB of ram on unknown "TOP PERFORMING CPUS". They have 3 North America
 locations and a Europe location. Their website looks to be designed the same as Fluctis Hosting and another site I visited which I can't remember while writing this,
 which may be a sign of low quality.
@@ -356,6 +366,10 @@ choose you get more cores, $4 per core. By default you get 1GB shared ram... but
 but it's old enough to use DDR3 ram. The one thing I can say for sure is that their hosting is located in Buffalo - New York. Honestly, I am very
 confused. Just avoid it, it honestly looks abandoned.
 
+[MCSpace.club](https://mcspace.club/) : MCSpace.club is a free server host offering 1GB servers with unknown CPUs and unknown locations. From the sounds of it they
+work off of ads (you stay on a web page and as long as you stay on that your server stays up) and also may be [Creeper,wtf](https://Creeper.wtf). They are not legally
+a company and by the looks of it have full access to your files with no legal clauses stopping them from downloading them. I'd avoid, way too sketchy.
+
 [MCProHosting](https://clients.mcprohosting.com/cart.php?gid=34) : DO NOT USE. MCProHosting is one of the most infamous server hosts out there and they take
 huge advantage of it. Charging $8 for 1GB of ram with (according to [this](https://clients.mcprohosting.com/knowledgebase/105/What-are-the-specs-on-our-servers.html)
 knowledge base article) Xeon E5-2600 CPUs - significantly slower than CPUs like the i9-10900k or Ryzen 9 5950X. The worst part? They limit player slots depending
@@ -396,6 +410,9 @@ no response.
 [Minecraft-Worlds](https://www.minecraft-worlds.com/offers) : Minecraft-Worlds offers hosting for $3 per GB of ram (plans starting at 2GB of ram) with a Ryzen 9 3900X 
 in either an unknown North America location or an unknown Europe location. They have unlimited NVMe storage which is nice. I have heard nothing about this host before
 so don't really know much.
+
+[MineFlex](https://mineflex.io/) : Don't you just love it when hosts don't provide any information whatsoever? They're a host that charges per hour with no info provided
+on price, specs, or locations unless you go through their support Discord. Hourly billed servers suck anyways, just avoid - not worth the hassle to get another Exaroton.
 
 [MineFort](Minefort.com) : Minefort is like a better MineHut. It provides a free server that you can connect to by connecting through their server but offer features
 MineHut doesn't have like FTP access and custom plugin upload. It honestly doesn't seem too bad, but 1GB of ram with an unknown CPU is quite limited and you can't even 
@@ -450,6 +467,10 @@ user defined by default with servers like OMGServ limiting them to benefit thems
 in France and for about $18 per month in the USA. You get unlimited ram with a Xeon-2670. I really doubt unlimited ram is actually unlimited ram, but who knows. I will
 say, this is a much better deal than their limited ram plan if true.
 
+[OmniNodes](https://omninodes.xyz/#pricing) : OmniNodes is a new host offering hosting for $2.50 per GB of ram with an i7-7700K. Their only location currently is in Singapore.
+Worth noting - they're using a cracked version of WHMCS and you can only order through Discord by the looks of it (on their MCMarket thread they say their website is from
+WHMCS despite not having a license for it). Their unlimited SSD storage is nice atleast though. Be careful, quite a bit sketchy.
+
 [OrixNode](https://orixnode.com/cart.php?gid=7) : OrixNode offers hosting for $1 per GB of ram with an unknown CPU in their North America and Europe locations. In their
 [Australia location](https://orixnode.com/cart.php?gid=10) they charge $1.50 per GB of ram with an unknown CPU. I can't find anything about them online, seems pretty unknown.
 
@@ -500,8 +521,19 @@ with a Xeon E5-1650V3. Budget NA charges $1.50 per GB of ram with an i7-6700K. L
 issues as you only get 5GB of storage by default on Budget plans and 10GB of storage by default on the Premium plan. Their site is really annoying to use so I'm going to cut
 it here for this host.
 
+[Pterohost](https://pterohost.com/) : Pterohost is a Russian server host that offers two plans, Budget Minecraft and Minecraft. For 
+[Budget Minecraft](https://pterohost.com/store/minecraf-cheap) they charge about $0.35 per GB of ram (plans starting at 2GB) with half a core of an unknown CPU. For 
+[Minecraft](https://pterohost.com/store/minecraft) they charge about $1.40 per GB of ram (gets more expensive as you pay for more cores + storage). Their only location
+is in Moscow - Russia as far as I am aware. Storage space seems really limited and I have no idea what CPUs are used. Please note: I do not speak Russian so had to use
+Google translate for this host. My information can easily be off. These prices also seems extremely low, but I hopefully got them right. I assumed the prices are in RUB
+and used XE.com to convert to USD. Again, be wary with this information.
+
 [Quantum Creations](https://quantumcreations.ca/Servers.html) : Quantum Creations offers hosting for an unknown amount of money (you have to email or call for info), with unknown
 CPUs, and in unknown locations. Absolutely just don't use them. It's not worth the effort most likely, if they had a decent service they'd make it easily purchasable.
+
+[Rabbit Hosting](https://rabbit-hosting.com/minecraft.php) : Rabbit Hosting offers hosting for $1.50 per GB of ram with a Ryzen 9 5950X. Their only current location is in
+Germany. I do not understand how they're going this cheap, it's almost sketchy. They're a pretty new company too and don't seem to have many customers. May go down due to this, 
+be careful. 
 
 [RamShard](https://ramshard.com/hosting/minecraft) : RamShard offers Minecraft server hosting for $3 per GB of ram in their North America and Europe locations, and for $5 per
 GB of ram in their Singapore and Australia locations. All of their plans are on Xeon E5-1650V4 CPUs which isn't ideal at all for the price you're paying.
@@ -635,6 +667,12 @@ by swifthosting that I thought was different enough to get its own category. The
 top performance for about $31.80. This runs on unknown "powerful" CPUs hosted somewhere in Denmark. Again, support may be limited due to a small team. Be 
 wary of this information, due to it being in Danish I had to Google translate.
 
+[System413](https://www.system413.com/game) : System413 offers hosting charging about $2 per GB of ram with a Ryzen 9 5950X - which is actually a lie. That's
+their best CPU used in one of their locations, and even then its only running at its base 3.4GHz instead of boost 4.9GHz so likely being throttled. In their
+Germany location you will get that Ryzen 9 5950X, in their other 2 Europe locations you will get an i9-9900K, in their 2 USA locations you will get a Ryzen 7
+3800X, in their Singapore location its an i7-7700K, and lastly in their Hong Kong location you are getting a Xeon E3-1270V5. Just due to the fact that these CPUs are
+likely throttling and they mislead you with it I would avoid them.
+
 [ThatNode](https://thatnode.com/hosting/minecraft) : ThatNode offers hosting for about $2.70 per GB of ram with an i9-9900K. Their only location is in Germany.
 They do have "unlimited storage" (as long as its things they approve, so probably will yell at you for CoreProtect or DynMap files) which is neat.
 
@@ -732,6 +770,14 @@ only location is in Miami. Considering they even provide unlimited storage they 
 
 [WebSound](https://websound.co.uk/minecraft) : WebSound offers hosting for about $3.50 per GB of ram on unknown Xeon E CPUs. They have only one location
 in Europe. They do have unlimited NVMe storage which is pretty nice though. I would like more info on CPU used though.
+
+[Whost](https://whost.es/) : Whost is a host based out of Spain offers 4 plans, [Hosting US](https://whost.es/store/minecraft-us), 
+[Hosting France](https://whost.es/store/minecraft-gaming-fr), [Hosting Canada](https://whost.es/store/minecraft-gaming-ca), and lastly
+[Fire Canada](https://whost.es/store/minecraft-fire-ca). Hosting US charges about $1.20 per GB of ram with Duel Xeon E5-2650V2's somewhere in the USA.
+Hosting France charges about $2.40 per GB of ram with an i7-6700K somewhere in France. Hosting Canada charges about $2.40 per GB of ram with Dual Xeon
+E5-1660V4's somewhere in Canada. Lastly, Fire Canada charges about $1.80 per GB of ram with an i7-6700K somewhere in Canada. Lower tiers (under 8GB
+ram on all plans) have pretty low storage so you may run into issues there. Also, take everything I have said for this host with a grain of salt - their
+entire site in in Spanish with me using Google Translate to get this information.
 
 [Winter Node](https://winternode.com/minecraft) : Winter Node offers plans on Ryzen 7 3700's and i9-9900k's for about $1.90 per GB of ram. They have 
 locations in both Chigaco, Illinois and in London, UK. I've heard some good stuff about them and they have tons of bonus perks (DDoS protection, 48
