@@ -841,6 +841,7 @@ BirdFlop.
 when you see their splitting system letting you split your resources across multiple servers. BloomHost also has a really good reputation with really fast support. Again,
 I absolutely vouch for BloomHost.
 
-[RetroNode](https://retronode.net/minecraft-hosting/) : As much as I love BirdFlop and BloomHost, I gotta simp for RetroNode. Where else will you find Ryzen 5 3600's for
-$1 per GB, i9-10900K's for $2 per GB, and Ryzen 9 5950X's for $2.25 per GB? They have absolutely amazing support too, really fast response times and really helpful - willing
-to tell you anything you need to know. I cannot recommend RetroNode enough.
+[RetroNode](https://retronode.net/minecraft-hosting/) : RetroNode is a semi-new host from what I can tell that has gotten on top of the game immediately. They offer the 
+following Minecraft hosting plans: Ryzen 5 3600's for $1 per GB, i9-10900K's for $2 per GB, and Ryzen 9 5950X's for $2.25 per GB. Best of all? They have absolutely amazing
+support, really fast response times and really helpful - willing to tell you absolutely anything you need to know. I absolutely vouch for RetroNode, just a bit worried it
+will become the new SlothHost - a great deal that gets abandoned over night. Just in general be careful with any host you use, take backups and prepare for the worst.
