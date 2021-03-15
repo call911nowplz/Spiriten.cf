@@ -774,7 +774,7 @@ important information to know. If you list these I am a lot more likely to consi
 3: If you oversell just stop. Overselling is overselling, theres no "I only oversell to a safe amount!" or anything. When you do it you're limiting performance
 of consumers willingly just to make a quick buck.
 
-4: If you have multiple plans simply say what each play has. Why should I pay for your Premium over Budget, what does it have that Budget doesn't?
+4: If you have multiple plans simply say what each plan has. Why should I pay for your Premium over Budget, what does it have that Budget doesn't?
 
 # ------------------------------------------------------------------------------
 
