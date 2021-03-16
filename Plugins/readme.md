@@ -9,3 +9,5 @@ Bukkit plugins (this includes plugins made for the forks like Spigot and Paper) 
 22 different permissions plugins.
 
 17 different world generators.
+
+46 different world management plugins.
