@@ -828,8 +828,8 @@ of consumers willingly just to make a quick buck.
 
 Free Hosts: 
 
-Try [MineFort](Minefort.com). It's just like the most known host MineHut but with spare features like full FTP access and even uploading custom plugins. It wont
-perform amazing by the looks of it but no free server will. If you need a free server I'd just use [MineFort](Minefort.com).
+Try [MineFort](https://www.Minefort.com). It's just like the most known host MineHut but with spare features like full FTP access and even uploading custom plugins. It wont
+perform amazing by the looks of it but no free server will. If you need a free server I'd just use [MineFort](https://www.Minefort.com).
 
 Premium Hosts:
 
