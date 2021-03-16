@@ -47,7 +47,7 @@ This list I am compiling here covers all of the different server proxies I have 
 
 [SecureCord](https://www.mc-market.org/resources/15002/) : SecureCord is a free BungeeCord fork which patches from harmful exploits.
 
-[SSCord](https://www.mc-market.org/resources/15002/) : SSCord is a premium fork of Waterfall adding some optimizations, anti-bot features like captcha, and patches some waterfall exploits. It supports 1.7.2 - 1.16.5.
+[SSCord](https://www.mc-market.org/resources/14562/) : SSCord is a premium fork of Waterfall adding some optimizations, anti-bot features like captcha, and patches some waterfall exploits. It supports 1.7.2 - 1.16.5.
 
 [Travertine](https://papermc.io/downloads#Travertine) : A fork of Waterfall adding support for more legacy versions. Supports 1.7.2 - 1.16.5
 
