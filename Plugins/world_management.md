@@ -180,6 +180,9 @@ unload worlds, set world spawns, and teleport to worlds). It supports 1.9.x - 1.
 It of course has world creation and teleportation, but other than that only have setting a worlds spawn. Also, do not rely on this plugin as the creator has a lot of
 history creating plugins and just abandoning them - likely what'll happen with this. It supports only 1.8.x.
 
+[wWorldCreator](https://www.spigotmc.org/resources/wworldcreator.80823/) : wWorldCreator is an extremely basin world management plugin with only the options to create
+worlds and teleport to them. It supports 1.7.x - 1.11.x.
+
 # ------------------------------------------------------------------------------
 
 # Recommendations
