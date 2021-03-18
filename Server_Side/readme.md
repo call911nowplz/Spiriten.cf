@@ -5,7 +5,7 @@ This section is for all of the backend things like Proxies (like BungeeCord) or 
 # ------------------------------------------------------------------------------
 # Amounts Listed
 
-39 different proxies.
+41 different proxies.
 
 181 different server hosts.
 
