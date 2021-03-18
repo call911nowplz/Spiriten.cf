@@ -11,6 +11,9 @@ This list I am compiling here covers all of the different server proxies I have 
 
 [Aegis](https://polymart.org/resource/aegis-the-best-bungeecord-fork.31) : A fork of BungeeCord adding many security measures and with built in anti-bot and anti-vpn. It supports 1.7.x to 1.16.3. The developer is currently false banned off of MC-Market.
 
+[Avalanche](https://github.com/pl3xgaming/Avalanche) : Avalanche is a fork of Waterfall with unknown features in unknown versions. I know nothing about it other than the
+fact that it was developed by the same guy who makes the PurPur server jar. It is abandoned (I think?)
+
 [BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated) : A fork of BungeeCord which caches players ips and usernames to verify them while Mojang services are unstable. It is created and mainted for the server BlockParty. Not sure of the versions, atleast 1.16.x.
 
 [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) : BungeeCord is the original way to connect multiple servers together. Today it has quite a few bugs and security concerns. I believe it supports 1.4 - 1.16.5.
@@ -42,6 +45,9 @@ This list I am compiling here covers all of the different server proxies I have 
 [LilyPad](https://github.com/LilyPad/JLilyPad) : A seperate proxy with its own API and plugins that is most likely discontinued.
 
 [Miners-League-BungeeCord](https://github.com/root1599/Miners-League-BungeeCord) : MLBC (for short) is a fork of BungeeCord created by and used by the Miners League Minigames Network for any custom patches/features they may need.
+
+[Mudslide](https://github.com/Pemigrade/mudslide) : Mudslide is a fork of Avalanche meant to continue it on. It is developed by the GitHub account Pemigrade (they run Birdflop 
+hosting) with the only known feature being "support for a custom server name". I have no idea which version it supports (likely 1.16) and should note it seems abandoned.
 
 [NachoBungee](https://github.com/CobbleSword/NachoBungee) : NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page they list off features of what they forked, nothing new. Basically just Travertine I guess.
 
