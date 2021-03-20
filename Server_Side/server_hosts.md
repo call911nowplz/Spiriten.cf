@@ -26,6 +26,10 @@ is in Boston, Massachusetts. While their pricing is quite high I believe you can
 CPU... ? Jeesh... They have 3 USA locations and a location in Germany. Their unlimited storage on SSD's are nice though. Overall, I would recommend them just due
 to lack of transparency at their pricing.
 
+[AmoraHost](https://amorahost.no/index.html) : AmoraHost is a Norwegian host with 2 plans, Budget and Premium. Budget costs around $1.80 per GB of ram with an unknown
+Xeon E5 CPU and Premium costs around $2.35 per GB of ram with an unknown Ryzen 7 CPU. Their plans are hosted somewhere in Germany. Please note: this information may be
+off. I do not speak Norwegian.
+
 [AnvilNode](https://www.anvilnode.com/minecraft) : Anvilnode offers hosting at $4 per GB of ram on unnamed Xeon CPUs. They have a USA location, a France
 location, a Singapore location, and an Australian location. I really have nothing else to say, I've heard nothing good or bad about Anvilnode.
 
@@ -42,10 +46,6 @@ have locations across North America and Europe. For the locations they provide y
 [AtlasNode](https://atlasnode.net/minecraft) : AtlasNode is a decently priced host costing $2 per GB of ram on an i9-9900k. They have locations in both
 Helsinki, Finland and Ashburn, Virginia. From what I can tell they have really good support but are a pretty new service, so just be careful. Also you may
 run into issues with storage, I'm not sure if they allow high storage amounts.
-
-[Aqua Sky Hosting](https://www.aquaskyhosting.com/pricing.php) : Aqua Sky Hosting charges $2 per GB of ram for their cheapest plan but it gets cheaper as you
-pay for more ram on an unknown CPU. Their locations for hosting are also unknown. Joining their extremely dead Discord server I found out they're shutting
-down on March 30th, just goes to show how flooded the market is.
 
 [Aquatis](https://aquatis.host/minecraft-hosting/) : Aquatis charges $1.50 per GB of ram on Xeon E5-2600's for their Budget plan and $3 per GB of ram on
 i9-9900k's for their Premium plans. They offer locations in Texas and Germany for Budget and in Texas for Premium. I will say, about a year ago a friend
@@ -418,6 +418,10 @@ on price, specs, or locations unless you go through their support Discord. Hourl
 MineHut doesn't have like FTP access and custom plugin upload. It honestly doesn't seem too bad, but 1GB of ram with an unknown CPU is quite limited and you can't even 
 upgrade it for cash (if you can then I just can't find the link, not a good sign). If you need a free server I would personally try this out.
 
+[MineHost](https://minehost.lt/minecraft-hostingas-standartiniai-planai) : MineHost is a Lithuanian host with 2 plans: Starter and Pro. Starter charges about $2.80 per
+GB of ram with an unknown CPU and Pro charges about $3.10 per GB of ram (plans starting at 2GB). The CPUs used are unknown with claims of having CPUs running at 20GHz
+(not possible). Please note: I do not speak Lithuanian so this information may be off.
+
 [MineHut](MineHut.com) : MineHut is the most well known host from what I can tell due to their widely available free plan. YOu get 1GB of ram, 10 player slots, and
 a max of 12 plugins (really?) for absolutely free. This isn't great but it's for free so why not? Their paid plans are where I start disagreeing with them. Their
 Daily and MH20 plans are the same specs, just Daily charging daily and MH20 charging monthly. Per month you will spend 1200 of their credits on daily and 720 of their
@@ -549,9 +553,14 @@ more ram? They have two locations, one in Germany and one in New York City - New
 [RetroNode](https://retronode.net/minecraft-hosting/) : RetroNode is a host with 3 tiers, Budget, Premium, and Extreme. Budget charges $1 per GB of ram with a Ryzen 5
 3600 in only their Europe location. Premium costs $2 per GB of ram with either an i9-9900K in their Europe location or a Ryzen 7 5800X in their North America location. Lastly,
 Extreme costs about $2.25 per GB of ram (plans starting at 8GB) with a Ryzen 9 5950X in their Europe location or a Ryzen 9 5900X in their North America location. Budget has 25GB
-of storage while Premium and Extreme have unmetered, might make you look at upgrading if you plan on using them. Although, 25GB is still a decent amount you might run through that.
-Their support is EXTREMELY fast from my experience contacting them. Looking at their TrustPilot I only see complaints over web hosting and issues that have been fixed too. I 
-absolutely recommend RetroNode, they seem to be an amazing service and I actually might plan on using them for an upcoming server of my own.
+of storage while Premium and Extreme have unmetered, might make you look at upgrading if you plan on using them. Although, 25GB is still a decent amount you might run through 
+that. Looking at their TrustPilot I only see complaints over web hosting and issues that have been fixed too. I absolutely recommend RetroNode, they seem to be an amazing
+service and I actually might plan on using them for an upcoming server of my own.
+
+[ReviveNode](https://billing.revivenode.com/minecraft.php) : ReviveNode is a host with 3 tiers - Budget, Premium, and Ultra. Budget charges $1 per GB of ram with a Xeon
+E5-1650V3, Premium charges $2 per GB of ram with an i7-4790K, and lastly Ultra charges $3 per GB of ram with a Ryzen 5 3600X. Each plan has a location in either North America
+or Europe. Personally, I wouldn't pay these prices for these specs, but that's me. Their TrustPilot is a bit odd to me, often when they get reviews it's multiple at a time from
+relatively fresh accounts.
 
 [Roddanhost](https://roddanhost.se/whmcs/index.php?rp=/store/minecraft) : Roddanhost offers hosting for about $2.40 per GB of ram with Ryzen 5 3600's. Due to their .se
 domain I am assuming their location is somewhere in Sweden, although they mention nothing about that. Overall, I can't really recommend them with that price for specs.
@@ -636,6 +645,11 @@ and their Premium plan charges $10 per GB of ram with an unknown CPU. Budget has
 has locations in Pheonix - Arizona and London - UK. The differences between Budget and Premium are the locations, SSD storage on Premium (Budget is on hard drives...),
 and Premium includes web hosting. Do not pay these prices atleast until you know what CPUs are used. Even with high end CPUs this is still quite overpriced, and if 
 they're not sharing CPUs used they're likely not using high end CPUs.
+
+[Spill Hosting](https://spillhosting.no/store/minecraft-server) : Spill Hosting is a Norwegian host offering 2 plans (other than BungeeCord, BungeeCord is just Budget
+with lower ram options) - Budget and Premium. Budget charges about $1.80 per GB of ram with a Xeon E5-1650V3 and Premium charges about $2.35 per GB of ram with an i9-9900K.
+Budget has a location in Falkenstein - Germany and Premium has a location in Helsinki - Finland. Please note: the site is in Norwegian so I have no idea how accurate I am
+with this.
 
 [StickyPiston](https://stickypiston.co/account/order7.php) : StickyPiston is a host offering hosting for $5 per GB of ram (plans starting at 1.5GB) with
 either a Xeon E-2288G, a Xeon 35-1650V4, or an i7-7700k. They have 6 locations, one in the USA, one in Canada, one in the UK, one in France, one in Germany,
@@ -827,6 +841,11 @@ of consumers willingly just to make a quick buck.
 # Recommendations
 
 Free Hosts: 
+
+Okay, I'm going to be honest here: I don't know what data of mine is being sold but I am all up for it with [Daemex](https://billing.daemex.io/cart.php?gid=1). You get 4GB
+of ram, 50GB of storage, and are hosted with a Xeon L5640 (2010 CPU). You have full control over anything, literally have to FTP files on. There's no ads either! Its just a
+completely open experience for the grand price of $0. Best part? It actually beats out PebbleHost Budget and PebbleHost Premium in performance (one of the cheapest hosts)! If
+you have a burner email + a fake name you can use I 100% recommend [Daemex](https://billing.daemex.io/cart.php?gid=1).
 
 Try [MineFort](https://www.Minefort.com). It's just like the most known host MineHut but with spare features like full FTP access and even uploading custom plugins. It wont
 perform amazing by the looks of it but no free server will. If you need a free server I'd just use [MineFort](https://www.Minefort.com).
