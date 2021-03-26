@@ -185,7 +185,7 @@ offer a Canada, USA, and Germany location. For Premium they offer a Canada, USA,
 host aren't bad and I don't see any major red flags, so why not?
 
 [Empower Servers](https://www.empowerservers.com/minecraft.php#plan) : Empower Servers offers hosting starting at $2 per GB of ram (plans starting at 2GB of ram) on
-an unknown CPU for their Standard plan and $5 per GB of ram (plans starting at $GB of ram) on an unknown CPU for their High Performance plan. For some reason as  you
+an unknown CPU for their Standard plan and $5 per GB of ram (plans starting at 4GB of ram) on an unknown CPU for their High Performance plan. For some reason as  you
 buy more ram with Standard it gets more expensive, but as you buy more with High Performance it gets cheaper. Odd... They have locations across North America, across
 Europe, across Asia, in Australia, and in New Zealand.
 
