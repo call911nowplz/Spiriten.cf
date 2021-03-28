@@ -392,4 +392,4 @@ compatibility using OpenTerrainGenerator. It supports only 1.12.x.
 
 Out of all of the World Generators listed here, I would recommend [Terra](https://www.spigotmc.org/resources/terra.85151/) for modern versions of the game, and if you're running 
 a legacy server I would recommend [Open Terrain Generator](https://www.spigotmc.org/resources/open-terrain-generator-otg.51373/) with 
-[Biome Bundle](https://www.spigotmc.org/resources/biome-bundle.51374/) due to performance and quality. 
+[Wildlands](https://www.curseforge.com/minecraft/mc-mods/wildlands) due to performance and quality. 
