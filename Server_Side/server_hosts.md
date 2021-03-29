@@ -554,8 +554,8 @@ more ram? They have two locations, one in Germany and one in New York City - New
 3600 in only their Europe location. Premium costs $2 per GB of ram with either an i9-9900K in their Europe location or a Ryzen 7 5800X in their North America location. Lastly,
 Extreme costs about $2.25 per GB of ram (plans starting at 8GB) with a Ryzen 9 5950X in their Europe location or a Ryzen 9 5900X in their North America location. Budget has 25GB
 of storage while Premium and Extreme have unmetered, might make you look at upgrading if you plan on using them. Although, 25GB is still a decent amount you might run through 
-that. Looking at their TrustPilot I only see complaints over web hosting and issues that have been fixed too. I absolutely recommend RetroNode, they seem to be an amazing
-service and I actually might plan on using them for an upcoming server of my own.
+that. They do have absolutely miserable response times for customers (anything out of the pre-purchase chats will take days for responses) so I would avoid if you don't just
+need bang for the buck.
 
 [ReviveNode](https://billing.revivenode.com/minecraft.php) : ReviveNode is a host with 3 tiers - Budget, Premium, and Ultra. Budget charges $1 per GB of ram with a Xeon
 E5-1650V3, Premium charges $2 per GB of ram with an i7-4790K, and lastly Ultra charges $3 per GB of ram with a Ryzen 5 3600X. Each plan has a location in either North America
@@ -859,8 +859,3 @@ BirdFlop.
 [BloomHost](https://bloom.host/) : BloomHost charges $2 per GB of ram on Ryzen 9 3900/3950X's or $2.75 per GB of ram with Ryzen 9 5950X. This is really cheap - especially
 when you see their splitting system letting you split your resources across multiple servers. BloomHost also has a really good reputation with really fast support. Again,
 I absolutely vouch for BloomHost.
-
-[RetroNode](https://retronode.net/minecraft-hosting/) : RetroNode is a semi-new host from what I can tell that has gotten on top of the game immediately. They offer the 
-following Minecraft hosting plans: Ryzen 5 3600's for $1 per GB, i9-10900K's for $2 per GB, and Ryzen 9 5950X's for $2.25 per GB. Best of all? They have absolutely amazing
-support, really fast response times and really helpful - willing to tell you absolutely anything you need to know. I absolutely vouch for RetroNode, just a bit worried it
-will become the new SlothHost - a great deal that gets abandoned over night. Just in general be careful with any host you use, take backups and prepare for the worst.
