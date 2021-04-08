@@ -233,6 +233,10 @@ an unknown CPU. As far as I am aware the only different is Premium has SSD stora
 any CPU they could find released in the past 5 years. They have locations in Dallas and New York City. Storage space is very limited though so you may run into problems
 there.
 
+[Foxomy](https://foxomy.com/dallas-i9-minecraft/) : Foxomy is a host with "furry lgbtq BLM" in their advertising material... okay. All of their site is focused on furry
+stuff, makes me uncomfortable so I don't plan on investigating for long. They charge $2 per GB of ram with an i9-10900k. Their only location is in Dallas - Texas. The CPU
+is pretty nice for that pricing, but I'm just very uncomfortable personally on the site.
+
 [FreeMc.Host](FreeMc.host) : FreeMc.Host is as what its name suggests - a free Minecraft host. You get 1GB of ram for joining and can get more by joining their
 sponsored Discord servers, allowing you to allocate up to 8GB of ram to a server. There are constant downtimes and with only 4 nodes with an i7-6700k in each 
 hosting hundreds of servers there's major performance issues. Unless you absolutely need a free host don't use FreeMc.Host as it is honestly miserable to use.
@@ -263,6 +267,9 @@ Standard they run on "3.2-4 GHz" CPUs and for Premium they run on "4.4-5 GHz" CP
 a location in Singapore, and a location in Australia for both plans. However, I will NOT recommend them due to them artificially limiting player slots on their 
 Budget plan, charging $2 for unlocking unlimited slots. Player slots are infinite and user defined by default and companies like GGServers take advantage of 
 unknowing owners by enforcing artificial player limits to make owners pay more for more slots. Disgusting.
+
+[GOAT.host](https://goat.host/minecraft#) : GOAT.host is a newer host offering hosting for $3 per GB of ram with a Ryzen 9 5900X or $3.50 per GB of ram with a Ryzen 9 5950X.
+They have locations in New York and Miami - Florida. Storage is extremely limited by default (10GB) so be wary that you may run into issues.
 
 [GoGaming](https://gogaming.com/gameservers/minecraft.php) : GoGaming is a host offering multiple hosting locations in the USA, two Australia locations, and a
 Singapore location. They charge $7.50 per GB of ram with an unknown CPU. While those dual Australia locations are nice, $7.50 per GB is too expensive for not
@@ -454,6 +461,9 @@ for what you're getting so I can't really recommend it.
 5GB of storage while all of their marketing is bragging about how much better they are from their competition. I would pay $2 per GB for that performance tops. Even
 on their largest premade plan (theres a customization feature) for $40 a month you are only getting 4GB of ram and 20GB of storage. You can fill that storage just with
 your worlds alone easily, not including anything like logs, CoreProtect, and DynMap. Absolutely avoid, seems to be preying on owners who don't know what they're doing.
+
+[Nopayhost](https://nopayhost.io/) : Nopayhost offers free hosting with 2GB of ram with an unknown CPU in an unknown location. Their MCMarket page is extremely sketchy, filled
+with tons of misspellings. I would avoid, pretty sketchy.
 
 [Novonode](https://www.novonode.com/minecraft-hosting) : Novonode offers hosting for $2.20 per GB of ram with either an i9-9900K or i9-10900K. They have 2 locations,
 Falkenstein - Germany and Miami - Florida. They have unlimited storage and really good TrustPilot reviews. Overall, it honestly looks like a pretty good choice.
