@@ -88,6 +88,10 @@ GB (starting at 8GB plans). They offer hosting in Texas, Virginia, Germany, and 
 dedicated CPU cores and ram across multiple servers, allowing you to pay for one plan with multiple MC servers. Sadly, due to having great performance at
 low prices usually the USA based plans are out of stock which may be a deal breaker for some.
 
+[BlueFang Solutions](https://www.bluefangsolutions.com/shop/minecraft/) : BlueFang Solutions has an outdated looking website, but I'll look past that. They offer
+hosting for $5 per GB of ram (plans starting at 1.5GB) with an unknown CPU. They have 6 North America locations, 3 Europe locations, a South Africa location,
+an Australia location, and a Singapore location. For $5 per GB of ram I'd really like to know what CPU they're using.
+
 [ByteAnia](https://byteania.com/games/) : ByteAnia is a new host with really nice prices, starting at $1.50 per GB of ram on a Ryzen 5 3600, and going up to
 $3.20 per GB of ram on a Ryzen 9 5950x. Currently the only location I can see is in Dallas, Texas, but I believe they're working on adding more. I've also
 heard great things about their support. Overall, a pretty good choice but be careful since it's so new.
@@ -141,6 +145,10 @@ space depending on how much ram you pay for though, a big downside.
 their prices are about $1.80 per GB of ram it doesn't sound too bad - until you learn of the CPUs that they use. They only have 3 nodes in Germany, with one
 running a Xeon E3-1275v5, one running a Xeon E5-1650v3, and one running an i7-4770 (the 4770 is non K variant and was released 8 years ago... that will NOT
 perform well). They do have unmetered storage which is nice, but the CPUs they use are so outdated/underperforming you will lose quite a bit of performance.
+
+[Curia Hosting](https://www.curiahosting.co.za/games/minecraft_java) : Curia Hosting offers hosting for about $7.80 per GB of ram (plans starting at 1.5GB) with a Xeon 
+E3-1230. Thats... quite underwhelming. You don't even get access to a full core on that plan. I'm not sure where they're hosting at, but they are a South African
+business so probably around there.
 
 [CynderHost](https://cynderhost.com/minecraft-hosting) : CynderHost offers hosting for $0.90 per GB of ram with unknown CPUs. I also have no idea where their
 servers are hosted. They do have reports of mass Discord bot messages in server host Discords so likely a very scummy company. Avoid!
@@ -262,6 +270,10 @@ that they have the most locations I have seen yet, offering hosting on every con
 to them artificially limiting player slots. Player slots are infinite and user defined by default and companies like Game Servers take advantage of unknowing owners 
 by enforcing artificial player limits to make owners pay more for more slots.
 
+[Gaming Evolved](https://gamingevolved.co.za/game-servers/minecraft) : Gaming Evolved has two plans, Budget and Premium. Budget charges about $5.15 per GB of ram (plans
+starting at 2GB) while Premium charges about $6.85 per GB of ram. Both are run on unknown CPUs. The good part? They have 2 locations in South Africa. If you're playing from
+South Africa, I'd honestly look at Gaming Evolved.
+
 [GGServers](https://ggservers.com/minecrafthosting) : GGServers charges $3 per GB of ram on their Standard plans and $6 per GB of ram on their Premium plans. For
 Standard they run on "3.2-4 GHz" CPUs and for Premium they run on "4.4-5 GHz" CPUs. They have multiple locations in North America, multiple locations in Europe,
 a location in Singapore, and a location in Australia for both plans. However, I will NOT recommend them due to them artificially limiting player slots on their 
@@ -325,6 +337,10 @@ and Asia locations for Supreme. Budget Europe runs Ryzen 5 3600's and Budget Nor
 Supreme North America runs Ryzen 3800X's, and Supreme Asia runs Xeon E2288G's. Their prices are really nice for what you're getting but they're suspected
 of overselling and have very conflicting support (for example, I asked where their locations are and their Managing Director told me completely wrong answers
 according to multiple sales staff).
+
+[Hyperlayer](https://hyperlayer.net/minecraft-hosting/) : Hyperlayer offers hosting for $3 per GB of ram (prices rise as you pay for more) on their Budget plan and $7 per GB of 
+ram on their Premium plan. Their Budget plan uses Dual Xeon E5-2680V3's and their Premium uses Xeon E5-1620V4's. Budget has 2 locations, South Africa and in Germany. Premium,
+however, only has a location in South Africa. They're quite expensive, but I do understand its hard to find a host in South Africa.
 
 [Hyperlink Hosting](https://panel.hyperlink.host/cart.php?gid=5) : Hyperlink Hosting offers hosting for $1.50 per GB of ram with an unknwon CPU. Their only location is
 somewhere in the USA. Where? Who knows. If they put in some transparency about what they're using and where then I may be able to recommend them.
@@ -467,6 +483,10 @@ with tons of misspellings. I would avoid, pretty sketchy.
 
 [Novonode](https://www.novonode.com/minecraft-hosting) : Novonode offers hosting for $2.20 per GB of ram with either an i9-9900K or i9-10900K. They have 2 locations,
 Falkenstein - Germany and Miami - Florida. They have unlimited storage and really good TrustPilot reviews. Overall, it honestly looks like a pretty good choice.
+
+[OasisHosting](https://oasis-hosting.net/product/minecraft) : OasisHosting offers hosting for $2.50 per GB of ram with an unknown "high-end Intel CPU". They have 4 North
+America locations, 5 Europe locations, a South Africa location, and an Australia location. The only reason I would ever use this host personally was if I were in South
+Africa. Other than that, lack of transparency on the CPU kills it for me.
 
 [Omega Hosting Australia](https://billing.omegahosting.com.au/store/minecraft-hosting) : Omega Hosting Australia offers hosting for about $10.90 per GB of ram with a
 Ryzen 5 2700. They do include unlimited storage and 2 Australia locations but that's still charging wayyy too much for the specs provided. Also, the text at the bottom 
@@ -640,6 +660,12 @@ use them anyways.
 [Snownode](https://snownode.com/minecraft.php) : Snownode offers a Budget plan for $2 per GB of ram with unknown CPUs and a Premium plan for $5 per GB of ram
 with unknown CPUs. Their locations for Budget are France, Canada, Australia, the UK, the USA, and Singapore. Their Premium plan is only in Singapore. Please,
 please, PLEASE add transparency about your CPUs. $5 per GB of ram with no info on the CPU is a deal breaker.
+
+[SongodaHost](http://www.songoda.host/) : SongodaHost (purchasable through their [patreon](https://www.patreon.com/songoda)) is a very questionable host. Their prices
+are not bad at the low tiers, getting more expensive as it goes up (8GB of ram for $15, 11GB of ram for $25, 14GB of ram for $50, and 17GB of ram for $100) - but where
+issues arise is anything else. What are the specs (likely slow Xeons just meant for churning out servers)? Where are they hosted at? Is it as buggy and screwed up as every
+single one of their plugins is? Just avoid it, you'll likely get an extremely underwhelming experience. Also avoid the plugins they make, they're filled with bugs and are
+absolutely performance hogs.
 
 [Sparked Host](https://sparkedhost.com/budget-minecraft-hosting) : Sparked Hosting offers hosting with 3 tiers - Budget, Enterprise, and Extreme. Budget costs
 $1 per GB of ram with a Xeon E5-2690, Enterprise costs $2 per GB of ram with a Ryzen 7 3700X, and Extreme costs $4 per GB of ram with an i9-10900k. The Budget
