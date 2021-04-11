@@ -170,7 +170,8 @@ else on the node if they are using a laggy setup - and they leaked a players IP 
 
 | [Daemex](https://billing.daemex.io/cart.php?gid=1) : Currently in a Beta so free servers (if approved by staff). You get 4GB of ram with an unknown CPU. There are 4 USA
 locations, 3 Europe locations, 4 Asia locations, one Africa location, one South America location, and one Australia location. I'm just a bit confused more than anything,
-will update this if I get my server from them
+will update this if I get my server from them (Ended up getting approved for it! It is actually legit with 4GB and 4 cores dedicated to me. They use a Xeon L5640 (a 2010
+server processor) and a Debian distribution from 2008. It's not ideal, but it is free and legitimate!)
 
 | [Daichi](https://daichi.host/minecraft) : Daichi is a newer host offering Minecraft hosting for $2 per GB of ram with unknown Xeon CPUs. I have no idea where their locations
 are. The unlimited SSD hosting is nice, but they are using a cracked copy of WHMCS so beware, use at your own risk.
