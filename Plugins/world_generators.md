@@ -10,6 +10,20 @@ This list I am compiling here covers all of the different Minecraft World Genera
 
 # Datapacks / A - Z
 
+| [1.17 Natural Lush Caves](https://www.planetminecraft.com/data-pack/1-17-natural-lush-caves/) : 1.17 NLC (for short) adds the teased lush caves into the latest 1.17 snapshot. It looks pretty good so far, but there are bugs reported.
+
+| [Aquea](https://www.planetminecraft.com/data-pack/aquea/) : Aquea adds a new dimension that focuses on the aquatic portion. It contains many new biomes and structures. It
+supports the 1.17 snapshots.
+
+| [Bio.caves](https://www.planetminecraft.com/data-pack/bio-caves/) : Bio.caves is an overhaul of the underground. It completely revamps caves, ravines, and from the looks of it
+even mineshafts. It looks pretty nice, but I have no insight on usage. It supports 1.16 - the 1.17 snapshots.
+
+| [Caves & Cliffs](https://www.planetminecraft.com/data-pack/shm-caves-n-cliffs/) : Caves & Cliffs tries to make all of the new content/blocks added in the 1.17 snapshots to
+actually generate to see what it's like. It supports the latest snapshot.
+
+| [Caves And Cliffs Preview V2](https://www.planetminecraft.com/data-pack/caves-and-cliffs-preview-v2/) : CACPV2 (for short) is a datapack meant to create a preview of the new
+lush caves being added in 1.17. It seems pretty neat, although block choices are a bit weird. It is available for snapshot 21w16a.
+
 | [Cheyrons Gamma World Generation](https://www.planetminecraft.com/data-pack/cheyrons-gamma-world-generation/) : CGWG (for short) tries to emulate Beta 1.7.3 generation with 
 all of the modern blocks and biomes available today. It seems pretty well executed too, although it looks like it only supports 1.16.
 
@@ -19,8 +33,18 @@ the randomness of Beta 1.7.3 generation while still having modern generation. Pe
 | [Finesta's Realistic Overhaul](https://www.planetminecraft.com/data-pack/finesta-s-realistic-overhaul-1-0-1-16-5/) : FRO (for short) is apparently a redo of vanilla
 generation? All I really see as different is that there are a lot more mountains. It supports 1.16.5.
 
+| [Harlondunei and other elvish worlds](https://www.planetminecraft.com/data-pack/harlondunei-and-other-elvish-world/) : I swear datapack world generator creators are trying to
+make their names as long as possible... HAOEW (for short) adds 5 new worlds (I think) with distinct themes. Some look neat, some look really off. I don't really feel like
+reading through their page as they decided white text on a white background was a good idea. It only supports 1.16.2.
+
+| [Journey to mars](https://www.planetminecraft.com/data-pack/journey-to-mars/) : Journey to mars adds a new dimension, Mars. It's pretty basic generation wise, but is neat as
+it adds some new items to get there. It is made for 1.16.
+
 | [Many More Biomes](https://www.planetminecraft.com/data-pack/many-more-biomes-20w29a/) : Many More Biomes is made to support 1.16.2 - 1.16.5. It adds 43 new biomes, some a bit
 questionable looking and others really nice. There are complaints of it being a bit glitchy and slow.
+
+| [Maquis Shrubland Remastered](https://www.planetminecraft.com/data-pack/maquis-shrubland-villages-remastered/) : MSR (for short) is (as far as I can tell) a fork of Many More
+Biomes, remastering only the Maquis Shrubland biome to make it more vanilla friendly. It supports 1.16 - the 1.17 snapshots.
 
 | [Minecraft Overwritten](https://www.planetminecraft.com/data-pack/minecraft-overwritten-islands-continents-mountain-ranges-and-more/) : Minecraft Overwritten is a rewrite of
 the overworld generation, trying to make it generate like real life. Some additions like volcanos are pretty cool, but a lot of editing to the colors of water/grass was done
@@ -28,6 +52,22 @@ making everything look quite drastic going from one thing to another. There's al
 
 | [Mystcraft Data Pack](https://www.planetminecraft.com/data-pack/mystcraft-data-pack-explore-new-dimensions/) : MDP (for short) adds 8 new dimensions to your world, trying to
 emulate the game MYST with its interdimensional book travel. Each dimension has its own theme and teleport book to craft. It is designed for 1.16.5.
+
+| [noise cave nether](https://www.planetminecraft.com/data-pack/noise-cave-nether/) : noise cave nether is a custom Nether generator that changes the noise of the dimension, to
+create a new design. It is for the latest 1.17 snapshot.
+
+| [Oceania](https://www.planetminecraft.com/data-pack/oceania-5018526/) : Oceania is a world generator completely revamping the underwater part of a world, not creating the
+continent of Oceania. It looks pretty cool, adding many new biomes, but I don't know how viable it actually is. It supports the 1.17 snapshots.
+
+| [Strider's Redux](https://www.planetminecraft.com/data-pack/strider-s-redux-vanilla-improvement-datapack/) : Strider's Redux is actually really amazing. It seems to have a
+replacement  for all major biomes, as well as adding new biomes. The block choices/schematics look pretty nice and I don't see any complaints. It is made for version 1.16.2 -
+1.16.5.
+
+| [The Bracken Pack](https://www.planetminecraft.com/data-pack/the-bracken-pack/) : The Bracken Pack adds 11 new dimensions and 31 new biomes, and it mainly just looks like a
+lot of color tweaking. It also seems like there may be custom bosses, but don't quote me. It supports 1.16.5.
+
+| [Underground Overhaul](https://www.planetminecraft.com/data-pack/underground-overhaul/) : Underground Overhaul does as it is named, completely overhauls the underground. It
+adds many new biomes, new structures, and new mobs to fight. I have played with it before and it looks really good. It supports 1.16.
 
 | [William Wythers' Overhauled Overworld](https://www.planetminecraft.com/data-pack/william-wythers-overhauled-overworld/) : WWOO (for short) completely overhauls the overworld
 in 1.16.5. It offers pretty impressive terrain and block combination choices, with many amazing looking biomes. It also has an 
