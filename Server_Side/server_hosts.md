@@ -313,6 +313,11 @@ They have locations in New York and Miami - Florida. Storage is extremely limite
 Singapore location. They charge $7.50 per GB of ram with an unknown CPU. While those dual Australia locations are nice, $7.50 per GB is too expensive for not
 knowing what performance you will be recieving.
 
+| [Govizyon](https://govizyon.com/minecraft-sunucu-kiralama.php) : Govizyon charges about $1.50 per GB of ram (plans starting at 2GB) with a Xeon E5-2697 V2 CPU. Their
+location is listed as "Turkey / Istanbul". This is a really slow CPU that was released in 2013. While this isn't ideal, it's the first host I've seen as of writing this
+with an Istanbul location. They also seem to offer ad space/membership on TheMinecraft.net... no idea what that is as CloudFlare marked me as malicious while heading to it.
+Please note: This information may be off. I do not speak Turkish so I had to rely on Google Translate.
+
 | [G-Portal](https://www.g-portal.com/us/en/gameserver/minecraft-server-hosting) : G-Portal is a host that charges by player slots. For every 4 slots they give 1
 GB of ram. With their default 4 slot plan being $5.50 we know the price per GB. $5.50 is quite high per GB of ram considering we don't know the CPU. Also, companies
 like G-Portal take advantage of unknowing server owners by charging by slot. Slots are infinite and user defined by default with terrible companies like this
@@ -599,7 +604,8 @@ Us not leading anywhere. Avoid PrimeSRV at all costs.
 [Minecraft](https://pterohost.com/store/minecraft) they charge about $1.40 per GB of ram (gets more expensive as you pay for more cores + storage). Their only location
 is in Moscow - Russia as far as I am aware. Storage space seems really limited and I have no idea what CPUs are used. Please note: I do not speak Russian so had to use
 Google translate for this host. My information can easily be off. These prices also seems extremely low, but I hopefully got them right. I assumed the prices are in RUB
-and used XE.com to convert to USD. Again, be wary with this information.
+and used XE.com to convert to USD. IMPORTANT NOTE ABOUT PTERO: They have recently faced a hack which wiped most servers hosted with them 
+and leaked customers information. Do not use! If this has happened once, it may happen again.
 
 | [Quantum Creations](https://quantumcreations.ca/Servers.html) : Quantum Creations offers hosting for an unknown amount of money (you have to email or call for info), with 
 unknown CPUs, and in unknown locations. Absolutely just don't use them. It's not worth the effort most likely, if they had a decent service they'd make it easily purchasable.
@@ -841,6 +847,11 @@ plans with an unknown CPU and $5 per GB of ram on their Premium plans with an un
 California, Quebec - Canada, and London - UK. I would personally not pay this much while not knowing what performance you will be getting - and there's
 a bigger issue. They limit player slots in their Budget plans. Player slots are infinite and user defined by default and companies like Virtual Gladiators 
 take advantage of unknowing owners by enforcing artificial player limits to make owners pay more money more for more slots. DO NOT USE.
+
+| [Volcano Hosting](https://volcanohosting.net/store/premium-minecraft-hosting) : Volcano Hosting offers hosting for about $2.40 per GB of ram with Dual Xeon E5-2643
+V2 CPUs. That is a 2013 CPU, meaning it has reached 8 years old. I cannot find any information about the location. Their storage is also extremely limited, giving you only
+6GB of storage for all plans 1GB - 6GB ram. The one interesting thing is their offer to make custom plugins for every server you order. Despite this offer, I would not go
+for Volcano Hosting. They're extremely outdated and for the pricing you could get much better.
 
 | [VooDoo Servers](https://voodooservers.com/plans.php) : VooDoo Servers offers 2 plans, Budget with $2 per GB of ram (starting at 4GB plans) with a 
 Xeon E3-1630V3, and Premium with $4 per GB of ram (starting at 3GB plans) with an i7-6700k. They have locations in Montreal - Canada and
