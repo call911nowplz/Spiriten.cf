@@ -5,6 +5,8 @@ to this it is top priority to get a good host. Getting a good host over a bad on
 
 This list I am compiling here covers all of the different Minecraft Server Hosts that I have encountered and links to them too.
 
+If you find any incorrect information, follow the steps at the absolute bottom.
+
 # ------------------------------------------------------------------------------
 
 # A - Z
@@ -945,3 +947,19 @@ BirdFlop.
 [BloomHost](https://bloom.host/) : BloomHost charges $2 per GB of ram on Ryzen 9 3900/3950X's or $2.75 per GB of ram with Ryzen 9 5950X. This is really cheap - especially
 when you see their splitting system letting you split your resources across multiple servers. BloomHost also has a really good reputation with really fast support. Again,
 I absolutely vouch for BloomHost.
+
+# ----------
+
+# Issues
+
+If you find incorrect information, create an issue with the following
+
+1: The hosting provider the issue is under
+
+2: What information is incorrect
+
+3: What the correct information is
+
+4: Your source
+
+If opened Issues do not follow this or are rude they will be closed and ignored.
