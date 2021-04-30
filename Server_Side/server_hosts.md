@@ -167,8 +167,7 @@ business so probably around there.
 servers are hosted. They do have reports of mass Discord bot messages in server host Discords so likely a very scummy company. Avoid!
 
 | [Cyperhost](https://cyperhost.com/minecraft) : Cyperhost offers hosting for $1.75 per GB of ram with a Ryzen 7 3800X. They have 2 locations, one in Beauhamois - Canada
-and one in London - UK. Despite their prices being pretty decent I would not recommend them - why? They have unmetered CPU usage which can lead to servers lagging everyone
-else on the node if they are using a laggy setup - and they leaked a players IP in one of their marketing materials (its removed now, but extremely unprofessional). Avoid.
+and one in London - UK. After a CEO chnage they have fixed all the issues I had too, so it honestly looks like a nice host.
 
 | [Daemex](https://billing.daemex.io/cart.php?gid=1) : Currently in a Beta so free servers (if approved by staff). You get 4GB of ram with an unknown CPU. There are 4 USA
 locations, 3 Europe locations, 4 Asia locations, one Africa location, one South America location, and one Australia location. I'm just a bit confused more than anything,
@@ -177,6 +176,8 @@ server processor) and a Debian distribution from 2008. It's not ideal, but it is
 
 | [Daichi](https://daichi.host/minecraft) : Daichi is a newer host offering Minecraft hosting for $2 per GB of ram with unknown Xeon CPUs. I have no idea where their locations
 are. The unlimited SSD hosting is nice, but they are using a cracked copy of WHMCS so beware, use at your own risk.
+
+| [Dashflo](https://dashflo.net/store/minecraft) : Dashflo offers hosting in Germany and the USA for about $2.40 per GB of ram. In Germany they use a Ryzen 9 5900X, and in the USA they use a Ryzen 7 2700X. Both are pretty well performing CPUs for Minecraft. I would love to recommend them - but one major thing popped up in my research about them. They seem to be a rebrand of deploys.io, a hosting service that was bombarded with bad reviews. It may still be a great deal, just be wary. 
 
 | [DBM Hosting](https://dbmhosting.com/cart.php?a=confproduct&i=0) : DBM Hosting offers hosting for about $6 per GB of ram with an i7-7700K (according to their MCMarket
 page). No location information is available. Just don't use, overpriced for the specs without even knowing where it'll be hosted.
