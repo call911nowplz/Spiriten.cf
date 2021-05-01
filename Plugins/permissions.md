@@ -40,6 +40,8 @@ with new features and optimizations. It has a pretty in-depth command system and
 [LarryPerms2](https://github.com/Unix101/LarryPerms2) : LarryPerms2 is a fork of PermissionsEx 1.0 that I believe is just used for learning purposes and some optimizations. The GitHub
 page states it is slow, untested, and hard to use in the readme.md.
 
+[LightPerms](https://www.spigotmc.org/resources/62447/) : LightPerms is a very light weight permission plugin that works on 1.8 to 1.16. It has per player and and group permissions.
+
 [LuckPerms](https://luckperms.net/) : LuckPerms is the modern solution to permissions. It has a web editor which allows you to browse all permissions and your groups in an interface,
 an active support discord, and constant updates patching out anything that may be considered a bug, improving performance, and adding new features along the way all while being free. 
 It supports 1.7.x - 1.16.x. Go with LuckPerms if you are looking for a permissions plugin.
