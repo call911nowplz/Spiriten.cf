@@ -111,7 +111,7 @@ group world spawns, things like per world inventories, and overrides for all of 
 single developer, but it is not currently abandoned.
 
 [Universim](https://www.spigotmc.org/resources/%E2%AD%90-universim-a-multiverse-plugin-sh99-universe-%E2%AD%90.70339/) : Universim is an extremely basic world manager with
-only world creation, world un/loading, world teleports, and a GUI for managing some things like mob amounts. It supports 1.9.x - 1.15.x and is currently abandoned.
+only world creation, world un/loading, world teleports, and a GUI for managing some things like mob amounts. It supports 1.8.x - 1.16.x.
 
 [Welten Manager](https://www.spigotmc.org/resources/welten-manager.61255/) : Welten Manager is a Germany world management plugin with the basic features (create worlds, 
 delete worlds, teleport to worlds, and the ability to set world spawns) with a single neat (but potentially dangerous) feature: the ability to kill all mobs in a world. 
