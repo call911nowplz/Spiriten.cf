@@ -10,7 +10,7 @@ This list I am compiling here covers all of the different server proxies I have 
 # Server Transfer | A - Z
 
 [Aegis](https://polymart.org/resource/aegis-the-best-bungeecord-fork.31) : A fork of BungeeCord adding many security measures and with built in anti-bot and anti-vpn. It 
-supports 1.7.x to 1.16.3. The developer is currently false banned off of MC-Market.
+supports 1.7.x to 1.16.5. The developer is currently false banned off of MC-Market.
 
 [Avalanche](https://github.com/pl3xgaming/Avalanche) : Avalanche is a fork of Waterfall with unknown features in unknown versions. I know nothing about it other than the
 fact that it was developed by the same guy who makes the PurPur server jar. It is abandoned (I think?)
