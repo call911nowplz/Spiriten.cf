@@ -105,10 +105,6 @@ low prices usually the USA based plans are out of stock which may be a deal brea
 hosting for $5 per GB of ram (plans starting at 1.5GB) with an unknown CPU. They have 6 North America locations, 3 Europe locations, a South Africa location,
 an Australia location, and a Singapore location. For $5 per GB of ram I'd really like to know what CPU they're using.
 
-| [ByteAnia](https://byteania.com/games/) : ByteAnia is a new host with really nice prices, starting at $1.50 per GB of ram on a Ryzen 5 3600, and going up to
-$3.20 per GB of ram on a Ryzen 9 5950x. Currently the only location I can see is in Dallas, Texas, but I believe they're working on adding more. I've also
-heard great things about their support. Overall, a pretty good choice but be careful since it's so new.
-
 | [Citadel Servers](https://citadelservers.com/game-servers/minecraft-game-hosting) : Citadel Servers is a host charging abut $5.60 per GB of ram with either 
 a Xeon E-2136, an i7-7700k, or a Ryzen 7 3800x. They do have tons of locations including across North America, Europe, in Singapore, in Tokyo, and in Sydney 
 so that's definitely a bonus. The CPUs used for the price aren't great at all though.
