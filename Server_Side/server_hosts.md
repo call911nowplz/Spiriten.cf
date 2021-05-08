@@ -105,6 +105,8 @@ low prices usually the USA based plans are out of stock which may be a deal brea
 hosting for $5 per GB of ram (plans starting at 1.5GB) with an unknown CPU. They have 6 North America locations, 3 Europe locations, a South Africa location,
 an Australia location, and a Singapore location. For $5 per GB of ram I'd really like to know what CPU they're using.
 
+| [CheeseHosting (KassHosting)](https://www.cheesehosting.net/minecraft-servers) : CheeseHosting has their own custom cheese panel called [Vulcan](https://www.cheesehosting.net/vulcan) built upon [pterodactyl](https://pterodactyl.io/) a free open source minecraft panel. Their servers are self-hosted and located in [Dronten, Netherlands](https://kennis.kaashosting.nl/en/article/where-are-your-servers-located-1jv62vu/). Prices are pretty steep charging 6 euros per GB of ram. You don't know what hardware your server is on either other than the fact they're using SSD storage. However, they've got DDOS protection, ensuring your server keeps running 24/7, free subdomains and automatic backups.
+
 | [Citadel Servers](https://citadelservers.com/game-servers/minecraft-game-hosting) : Citadel Servers is a host charging abut $5.60 per GB of ram with either 
 a Xeon E-2136, an i7-7700k, or a Ryzen 7 3800x. They do have tons of locations including across North America, Europe, in Singapore, in Tokyo, and in Sydney 
 so that's definitely a bonus. The CPUs used for the price aren't great at all though.
