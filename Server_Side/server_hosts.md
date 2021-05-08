@@ -27,7 +27,7 @@ reasons of it looking like it's very oversold and also because I couldn't find w
 is in Boston, Massachusetts. While their pricing is quite high I believe you can switch to any game they support at any time.
 
 | [AleForge](https://aleforge.net/games/minecraft) : AleForge charges $4.50 per GB of ram with "3.8GHz" CPUs. $4.50 per GB of ram and not even a top of the line
-CPU... ? Jeesh... They have 3 USA locations and a location in Germany. Their unlimited storage on SSD's are nice though. Overall, I would recommend them just due
+CPU... ? Jeesh... They have 3 USA locations and a location in Germany. Their unlimited storage on SSD's are nice though. Overall, I wouldn't recommend them just due
 to lack of transparency at their pricing.
 
 | [AmoraHost](https://amorahost.no/index.html) : AmoraHost is a Norwegian host with 2 plans, Budget and Premium. Budget costs around $1.80 per GB of ram with an unknown
@@ -131,6 +131,9 @@ which is neat.
 where on their lowest plan you are paying about $1.25 per GB of ram on "the latest Xeon CPUs". Their storage amounts are extremely limited though (base of 6GB
 with a max of 50GB) so that may be where they cut costs and may be proof of overselling. Until more comes out about this service, I'd avoid it just due to the
 unknown factor.
+
+| [CrateNode](https://cratenode.com/minecraft/) : CrateNode offers hosting on an unknown CPU for $2 per GB of ram. They don't have any listed locations. Don't use
+unless they give you some more transparency.
 
 | [CreeperHost](https://www.creeperhost.net/mc/order) : CreeperHost charges about $4.80 per GB of ram on an unknown CPU. They offer hosting across North America,
 in South America, across Europe, in Asia, and in Australia. Honestly can't really say anything on them, they don't really look like anything special and have
@@ -576,6 +579,10 @@ have a North America location using i7-9700K's in both plans and a Europe locati
 | [PixelPond.io](https://pixelpond.io/#plans) : PixelPond.io charges $4 per GB of ram on a Ryzen 9 5950x with pretty limited storage amounts. Their only location 
 is in Australia as far as I am aware. Overall, not really recommended unless you're an Australian player in need of hosting quick.
 
+| [Plasam Hosting](https://plasam.host/plans) : Plasam Hosting offers hosting in an unknown North America location and an unknown Europe location. The Europe location 
+costs $1.25 per GB of ram with an unknown CPU, and the North America location charges $2 per GB of ram with an unknown CPU. I don't understand why hosts don't have any
+transparency...
+
 | [PlayerServers](https://playerservers.com/) : PlayerServers is another MineHut type server host offering free servers through a central hub. The servers provided have
 completely unknown specs with a default of 15 slots. You can get more servers through one time donations/monthly donations. Honestly, even MineHub is better, this looks
 really bad. Avoid..
@@ -625,6 +632,9 @@ won't reach 10 players on at once. Oh yeah, it's also not public - invite only. 
 | [Realms Hosting](https://realmshosting.com/minecraft/) : Realms Hosting offers hosting starting at $2 per GB of ram which then gets cheaper then more expensive as you pay for
 more ram? They have two locations, one in Germany and one in New York City - New York, both with an i7-6700k. You may run into storage issues with their 2GB plan too with only
 20GB of storage, but past that they all have 100GB storage so you should be fine. Honestly, with that old of a CPU (6 year old CPU!) I would not pay that price.
+
+| [RemorseHost](https://www.remorsehost.com/minecraft) : RemorseHost offers hosting for $1 per GB of ram in undisclosed North America and Europe locations. Their only
+information on specs is "Intel and AMD Processors"... so pretty much any CPU. I get that they're cheap, but transparency is key.
 
 | [RetroNode](https://retronode.net/minecraft-hosting/) : RetroNode is a host with 3 tiers, Budget, Premium, and Extreme. Budget charges $1 per GB of ram with a Ryzen 5
 3600 in only their Europe location. Premium costs $2 per GB of ram with either an i9-9900K in their Europe location or a Ryzen 7 5800X in their North America location. Lastly,
@@ -707,11 +717,18 @@ use them anyways.
 with unknown CPUs. Their locations for Budget are France, Canada, Australia, the UK, the USA, and Singapore. Their Premium plan is only in Singapore. Please,
 please, PLEASE add transparency about your CPUs. $5 per GB of ram with no info on the CPU is a deal breaker.
 
+| [Somtera](https://somtera.eu/index.php?rp=/store/minecraft) : Somtera offers hosting with an unknown CPU for about $2.40 per GB of ram. Storage is also pretty limited
+on the lower plans. Just not ideal for that price and not knowing what you get.
+
 | [SongodaHost](http://www.songoda.host/) : SongodaHost (purchasable through their [patreon](https://www.patreon.com/songoda)) is a very questionable host. Their prices
 are not bad at the low tiers, getting more expensive as it goes up (8GB of ram for $15, 11GB of ram for $25, 14GB of ram for $50, and 17GB of ram for $100) - but where
 issues arise is anything else. What are the specs (likely slow Xeons just meant for churning out servers)? Where are they hosted at? Is it as buggy and screwed up as every
 single one of their plugins is? Just avoid it, you'll likely get an extremely underwhelming experience. Also avoid the plugins they make, they're filled with bugs and are
 absolutely performance hogs.
+
+| [SoulNode](https://soulnode.net/java/) : SoulNode offers hosting with 3 main plans - Starter and Novice. Starter uses a Ryzen 5 3600 with 1 dedicated vCore 
+and charges $1 per GB of ram (plans starting at 2GB). Novice is the same as starter except for 2 vCores and a price of $1.50 per GB of ram (plans starting at 2GB). Both
+plans have 3 locations, one in Missouri - USA, Falkenstein - Germany, and Helsinki - Finland.
 
 | [Sparked Host](https://sparkedhost.com/budget-minecraft-hosting) : Sparked Hosting offers hosting with 3 tiers - Budget, Enterprise, and Extreme. Budget costs
 $1 per GB of ram with a Xeon E5-2690, Enterprise costs $2 per GB of ram with a Ryzen 7 3700X, and Extreme costs $4 per GB of ram with an i9-10900k. The Budget
@@ -769,6 +786,11 @@ Germany location you will get that Ryzen 9 5950X, in their other 2 Europe locati
 3800X, in their Singapore location its an i7-7700K, and lastly in their Hong Kong location you are getting a Xeon E3-1270V5. Just due to the fact that these CPUs are
 likely throttling and they mislead you with it I would avoid them.
 
+| [Tekhula Hosting](https://www.tekhula.com/) : Tekhula has one of the creepiest logos I have seen yet. They have 2 plans, [Lite](https://www.tekhula.com/minecraft-lite/)
+and [https://www.tekhula.com/minecraft-server/]. Lite charges about $1.20 per GB of ram with an unknown Xeon CPU. Normal charges about $1.52 per GB of ram (price taken at the
+2GB level) with an i7-7700K. No locations are listed. And while the website is in Italian, there some major flaws I've found which make me say DO NOT USE TEKHULA. First,
+the stolen content. They just stole the trailer from Minecraft Story Mode amd play it on their page. Second, limiting slots. On their Lite plans slots are limited. Slots are infinited and user defined by default with companies such as Tekhula taking advantage of unknowing customers by limiting them. Do not support a company that practices this.
+
 | [ThatNode](https://thatnode.com/hosting/minecraft) : ThatNode offers hosting for about $2.70 per GB of ram with an i9-9900K. Their only location is in Germany.
 They do have "unlimited storage" (as long as its things they approve, so probably will yell at you for CoreProtect or DynMap files) which is neat.
 
@@ -810,6 +832,10 @@ but with updated pricing on the page.
 completely unknown CPUs, Premium charges $3 per GB of ram with "4.0 - 4.5GHz" CPUs, and lastly Premium OC charges $5 per GB of ram with "4.7 - 5.0GHz" CPUs. I
 do find it very odd that they don't just tell you their specs, probably Xeon CPUs for Basic and Premium. Their TrustPilot page is pretty nice though, a lot
 of recommendations.
+
+| [ValorNode](https://billing.valornode.com/cart.php?a=confproduct&i=0) : ValorNode offers hosting on a "3.06GHz Xeon CPU" for about $1.20 per GB of ram. According to their
+MC-Market ad it is a 40 core Xeon CPU, so likely will not be ideal for Minecraft. That price is truly not bad though - especially when you look into the fact that it's hosted
+in Portugal. First host I've found hosted in Portugal.
 
 | [VanwaTech](https://billing.vanwa.tech/cart.php?a=confproduct&i=0) : VanwaTech offers hosting for $1 per GB of ram on an unknown Epyc CPU (slow, high core CPUs).
 Their only location is USA Central, most likely somewhere in Texas. With Minecraft being a single core dependent game it's better to have a faster CPU than
