@@ -579,7 +579,7 @@ completely unknown specs with a default of 15 slots. You can get more servers th
 really bad. Avoid..
 
 | [PloxHost](https://plox.host/minecraft) : PloxHost offers hosting for $1.50 per GB of ram on their Budget plan with dual Xeon E5-2600's and for $4 per GB of ram on their
-Extreme plan with either an i9-9900k or Ryzen 7 3800X. They have two locations, one in Dallas - Texas and one iin Frankfurt - Germany. With Premium you also get free Discord
+Extreme plan with either an i9-9900k or Ryzen 7 3800X. They have two locations, one in Dallas - Texas and one in Frankfurt - Germany. With Premium you also get free Discord
 bot hosting and free Website hosting which actually makes the deal pretty decent. The reviews are really positive for the host but there are complaints of data loss, so if you
 use them make sure to take constant backups.
 
