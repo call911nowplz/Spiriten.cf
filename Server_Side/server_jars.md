@@ -269,7 +269,7 @@ Out of all of this what do I recommend?
 For newer versions use [PurPur](https://purpur.pl3x.net/). It's a reliable and fast software and the forks of it aren't too great yet.
 
 For 1.8 use [Cuberite](https://cuberite.org/) if you are custom developing plugins, otherwise use [TacoSpigot](https://tacospigot.github.io/) or 
-[LightSpigot 1.8.8](https://www.mc-market.org/resources/17753/).
+[LightSpigot 1.8.8](https://www.mc-market.org/resources/16933/).
 
 If you really need 1.7.10, whether that be for the PvP or stability, I liked [VapoSpigot](https://www.mc-market.org/resources/10936/). It's a free Paper fork with a lot of
 optimizations, new additions, built in protocol support, and even custom knockback settings.
