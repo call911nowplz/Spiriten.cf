@@ -152,9 +152,6 @@ GitHub is still up. Today, the developers have moved onto a new iteration of it 
 [uSpigot 1.0](https://mctrades.org/threads/15859/) : uSpigot 1.0 is a premium 1.8.9 Spigot fork with claims of full multicore/multithread support, custom knockback parameters,
 and many optimizations. It is made by the same developer as nSpigot 2.0 Enterprise, so very likely a scam.
 
-[Vanilla](https://www.minecraft.net/en-us/download/server) : The Vanilla jar is the server software provided by Mojang themselves. It is the slowest and has the least abilities, 
-but it is a plain vanilla experience.
-
 [VapoSpigot](https://www.mc-market.org/resources/10936/) : VapoSpigot is a free 1.7.10 Paper fork aimed at PvP servers. It includes features like custom knockback parameters, 
 a lot of optimizations, some Bukkit API additions, and built in 1.8.x support. It's amazing what you can get for free...
 
@@ -172,41 +169,6 @@ various Paper forks and Fabric performance mods and hopes it works. They will re
 
 [zSpigot](https://www.mc-market.org/resources/7198/) : zSpigot was a 1.7.10 Paper fork with custom knockback profiles, a built in server benchmarker, and various HCF/PvP 
 optimizations. Ironically, the creator was banned for leaking products and now the only way to get his server jar is through it being leaked.
-
-# ------------------------------------------------------------------------------
-
-# Custom | A-Z
-Server software that doesn't run on BukkitAPI
-
-[CanaryMod](https://github.com/CanaryModTeam/CanaryMod) : A fork of hMod for implementing some of Bukkit's patches. Used on the MinecraftOnline server. Not sure what versions.
-
-[Cauldron-js](https://github.com/vantezzen/cauldron-js) : Cauldron-js is just a proof of concept idea of running a 1.13.2 server entirely inside your web browser. Doesn't run 
-great, but still an achievement.
-
-[Cleanstone](https://github.com/CleanstoneMC/Cleanstone) | Cleanstone is a rewrite of Minecraft servers from the ground up to support multi-core usage. It currently supports 
-1.12.2 - 1.14 and occasionally recieves updates, but no new releases.
-
-[Cuberite](https://cuberite.org/) : Cuberite is a recode of Minecraft servers from the ground up with its own API and plugins. It currently supports 1.8 to 1.12.2.
-
-[Feather](https://github.com/feather-rs/feather) : Feather is a recode of Minecraft servers entirely in the Rust programming language, aimed at making the server run
-multicore - this would significantly increase performance. It currently only supports 1.16.5. Worth noting, their plugin API is not finished yet either.
-
-[hMod](https://github.com/traitor/Minecraft-Server-Mod/) : The first server type with server side mods (plugins) supported. It supported early Alpha versions.
-
-[LightStone](https://github.com/grahamedgecombe/lightstone) : All the way back in 2011 in Alpha 1.0.16 an attempted multi-core Minecraft server project was made. It didn't head 
-anywhere, but is the predecessor to the Glowstone project.
-
-[McEx](https://github.com/McEx/McEx) : McEx was an experimental multi-core server written in rust and elixer, but was never released.
-
-[MineStom](https://github.com/Minestom/Minestom) : A 1.16.5 complete rewrite of Minecraft server. It removes all features (like the server knowing what a chest is) to be the 
-ultimate plugin creator playground (no features in your way) as well as for the best optimization. It's not in a released state at the moment and pluginswill take longer to be 
-developed on it.
-
-[NeptuneVanilla](https://github.com/NeptunePowered/NeptuneMod) : A continuation of CanaryMod under a new repository and name.
-
-[Project-Rainbow](https://ci.codecrafter47.de/job/Rainbow/) : Project-Rainbow was an attempt at overthrowing Bukkit with a new platform, but as we can tell that didn't work.
-
-[SpongeVanilla](https://www.spongepowered.org/) : SpongeVanilla exists for hosting a vanilla Minecraft server but with Sponge plugin support, it's like an alternative to Spigot.
 
 # ------------------------------------------------------------------------------
 
@@ -259,6 +221,44 @@ Mod loader server software.
 
 [ModLoaderMP](https://mcarchive.net/mods/modloadermp) : ModLoaderMP was the first multiplayer mod loader, supporting from Beta 1.4 to release 1.5.2. It is currently abandoned
 but is a neat piece of Minecraft history.
+
+# ------------------------------------------------------------------------------
+
+# Other | A-Z
+Server software that doesn't run on BukkitAPI
+
+[CanaryMod](https://github.com/CanaryModTeam/CanaryMod) : A fork of hMod for implementing some of Bukkit's patches. Used on the MinecraftOnline server. Not sure what versions.
+
+[Cauldron-js](https://github.com/vantezzen/cauldron-js) : Cauldron-js is just a proof of concept idea of running a 1.13.2 server entirely inside your web browser. Doesn't run 
+great, but still an achievement.
+
+[Cleanstone](https://github.com/CleanstoneMC/Cleanstone) | Cleanstone is a rewrite of Minecraft servers from the ground up to support multi-core usage. It currently supports 
+1.12.2 - 1.14 and occasionally recieves updates, but no new releases.
+
+[Cuberite](https://cuberite.org/) : Cuberite is a recode of Minecraft servers from the ground up with its own API and plugins. It currently supports 1.8 to 1.12.2.
+
+[Feather](https://github.com/feather-rs/feather) : Feather is a recode of Minecraft servers entirely in the Rust programming language, aimed at making the server run
+multicore - this would significantly increase performance. It currently only supports 1.16.5. Worth noting, their plugin API is not finished yet either.
+
+[hMod](https://github.com/traitor/Minecraft-Server-Mod/) : The first server type with server side mods (plugins) supported. It supported early Alpha versions.
+
+[LightStone](https://github.com/grahamedgecombe/lightstone) : All the way back in 2011 in Alpha 1.0.16 an attempted multi-core Minecraft server project was made. It didn't head 
+anywhere, but is the predecessor to the Glowstone project.
+
+[McEx](https://github.com/McEx/McEx) : McEx was an experimental multi-core server written in rust and elixer, but was never released.
+
+[MineStom](https://github.com/Minestom/Minestom) : A 1.16.5 complete rewrite of Minecraft server. It removes all features (like the server knowing what a chest is) to be the 
+ultimate plugin creator playground (no features in your way) as well as for the best optimization. It's not in a released state at the moment and pluginswill take longer to be 
+developed on it.
+
+[NeptuneVanilla](https://github.com/NeptunePowered/NeptuneMod) : A continuation of CanaryMod under a new repository and name.
+
+[Project-Rainbow](https://ci.codecrafter47.de/job/Rainbow/) : Project-Rainbow was an attempt at overthrowing Bukkit with a new platform, but as we can tell that didn't work.
+
+[SpongeVanilla](https://www.spongepowered.org/) : SpongeVanilla exists for hosting a vanilla Minecraft server but with Sponge plugin support, it's like an alternative to Spigot.
+
+[Vanilla](https://www.minecraft.net/en-us/download/server) : The Vanilla jar is the server software provided by Mojang themselves. It is the slowest and has the least abilities, 
+but it is a plain vanilla experience.
 
 # ------------------------------------------------------------------------------
 
